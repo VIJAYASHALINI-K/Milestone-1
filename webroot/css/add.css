@@ -1,0 +1,48 @@
+.container{
+    margin:0 auto;
+}
+input[type="submit"]{
+    background-color: green;
+}
+label{
+    font-size:medium;
+    font-weight: bold;
+    padding:5px;
+    color:black;
+    /* text-align: left !important; */
+}
+legend{
+    padding-bottom:10px;
+}
+#login,.store_details{
+    margin:0 auto;
+    padding-top:40px;
+    padding-bottom:40px;
+    text-align: center;
+    color: green;
+    font-size: xx-large;
+    font-weight: bold;
+    display: block;
+}
+.goto_page1{
+    margin:40px;
+    background-color:burlywood;
+}
+#step_1{
+    padding-top: 40px;
+    display:block;
+}
+#step_2 {
+    padding-top: 40px;
+    /* display: none; */
+}
+
+#step_3 {
+    padding-top: 40px;
+    /* display: none; */
+}
+#success_page{
+    /* display:none; */
+    text-align: center;
+    color:green;
+}
